@@ -1,0 +1,23 @@
+{
+  "name": "bla-bla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bla.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natituka/new.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natituka/new/issues"
+  },
+  "homepage": "https://github.com/natituka/new#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
